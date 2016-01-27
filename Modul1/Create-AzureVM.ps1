@@ -1,10 +1,10 @@
 ﻿# Settings
 $subscriptionName = "Azure Pass" # Get-AzureSubscription
 $location = "West Europe" # Get-AzureLocation
-$serviceName = "bbdemocamp1433"
-$storageAccountName = "bbdemopk1433"
+$serviceName = "ska-service"
+$storageAccountName = "itcamp2016sk"
 $storageContainerName = "vhds"
-$adminUsername = "adm_demo"
+$adminUsername = "adminska"
 $adminPassword = "Azure ist toll!"
 $imageFamily = "Windows Server 2012 R2 Datacenter"
 $vmName = "host1"
